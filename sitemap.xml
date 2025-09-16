@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vanHeemstraSystems.github.io/learning-splunk-themes/index.html</loc>
-    <lastmod>2025-09-16T14:28:13.908Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vanHeemstraSystems.github.io/learning-splunk-themes/SUMMARY.html</loc>
-    <lastmod>2025-09-16T14:28:13.907Z</lastmod>
+    <loc>https://vanHeemstraSystems.github.io/learning-splunk-themes/splunk-search.html</loc>
+    <lastmod>2025-09-16T14:33:16.542Z</lastmod>
   </url>
   <url>
     <loc>https://vanHeemstraSystems.github.io/learning-splunk-themes/about.html</loc>
-    <lastmod>2025-09-16T14:28:13.907Z</lastmod>
+    <lastmod>2025-09-16T14:33:16.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning-splunk-themes/SUMMARY.html</loc>
+    <lastmod>2025-09-16T14:33:16.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning-splunk-themes/index.html</loc>
+    <lastmod>2025-09-16T14:33:16.542Z</lastmod>
   </url>
 </urlset>
